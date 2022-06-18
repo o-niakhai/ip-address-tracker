@@ -18,5 +18,14 @@
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "leaflet": "^1.7.1"
-  }
+  },
+  "description": "![Design preview for the IP address tracker coding challenge](./design/desktop-preview.jpg)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/o-niakhai/ip-address-tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/o-niakhai/ip-address-tracker/issues"
+  },
+  "homepage": "https://github.com/o-niakhai/ip-address-tracker#readme"
 }

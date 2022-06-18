@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
-    "leaflet": "^1.7.1"
+    "leaflet": "^1.8.0"
   },
   "description": "![Design preview for the IP address tracker coding challenge](./design/desktop-preview.jpg)",
   "repository": {

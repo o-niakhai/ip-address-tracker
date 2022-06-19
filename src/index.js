@@ -36,13 +36,11 @@ function getData() {
             .then(setInfo)
     }
 }
-
 function handleKey(e) {
     if (e.key === 'Enter') {
         getData();
     }
 }
-
 function setInfo(mapData) {
     const {lat, lng, country, region, timezone} = mapData.location;
 

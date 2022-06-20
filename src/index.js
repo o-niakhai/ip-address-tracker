@@ -28,7 +28,6 @@ const map = L.map(mapArea, {
 addTileLayer(map);
 L.marker([51.505, -0.09], {icon: markerIcon}).addTo(map);
 
-
 function getData() {
     if (validatIp(ipInput.value)) {
         getAddress(ipInput.value)

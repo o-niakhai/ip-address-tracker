@@ -19,7 +19,6 @@ const markerIcon = L.icon({
     iconUrl: icon,
     iconSize: [30, 40],
 });
-
 const mapArea = document.querySelector('.map');
 const map = L.map(mapArea, {
     center: [51.505, -0.09],

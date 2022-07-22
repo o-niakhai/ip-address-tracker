@@ -60,4 +60,4 @@ function setInfo(mapData) {
 
 document.addEventListener('DOMContentLoaded', () => {
     getAddress('102.22.22.1').then(setInfo)
-});  
+}); 
